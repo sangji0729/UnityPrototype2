@@ -3,7 +3,9 @@ guid: bc8b23947162b43a5a82dabed6289294
 MonoImporter:
   externalObjects: {}
   serializedVersion: 2
-  defaultReferences: []
+  defaultReferences:
+  - mySfx: {instanceID: 0}
+  - eat: {fileID: 8300000, guid: 6947536e95521427693bf6fdd4a03c6f, type: 3}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 

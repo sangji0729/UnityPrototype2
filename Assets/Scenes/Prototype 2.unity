@@ -179,9 +179,13 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 665225836, guid: f3f69bcf5a1514c458ed5c9b96f28e34, type: 3}
-      propertyPath: projectilePrefab
-      value: 
-      objectReference: {fileID: 6924647170231553140, guid: e9427f709dab4430ba1c61d78aca3628, type: 3}
+      propertyPath: zRange
+      value: 15
+      objectReference: {fileID: 0}
+    - target: {fileID: 665225836, guid: f3f69bcf5a1514c458ed5c9b96f28e34, type: 3}
+      propertyPath: minZRange
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f3f69bcf5a1514c458ed5c9b96f28e34, type: 3}
 --- !u!1 &170076733
